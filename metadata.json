@@ -1,0 +1,24 @@
+{
+    "name": "Special Bossu NFT",
+    "symbol": "BOSSU",
+    "description": "A special NFT for the Bossu community!",
+    "image": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Special"
+        },
+        {
+            "trait_type": "Community",
+            "value": "Bossu"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
