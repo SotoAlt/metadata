@@ -1,0 +1,15 @@
+{
+    "name": "Bossu Game Assets",
+    "symbol": "BOSSU",
+    "description": "A collection of magical items from the Bossu universe",
+    "image": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+    "external_url": "https://bossu.ai",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
