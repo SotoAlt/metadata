@@ -1,0 +1,24 @@
+{
+    "name": "Rare Sword",
+    "symbol": "BSWORD",
+    "description": "A legendary sword forged in the depths of Bossu's realm",
+    "image": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Weapon"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.ibb.co/7GWxpb3/BOSSU-TOKEN.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
